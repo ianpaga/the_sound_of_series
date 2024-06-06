@@ -19,7 +19,7 @@ These files are generated after running the jupyter notebook:
 - arithmetic_sound.wav
 ```
 
-which can be found in the /sound_files directory.
+which can be found in the `/sound_files` directory.
 
 ## Figures:
 
